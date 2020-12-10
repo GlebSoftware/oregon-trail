@@ -1,9 +1,5 @@
 # The Oregon Trail
 
-#### Epicodus Intro to Programming: Group Project, June 21, 2018
-
-#### By Nate Cottle, Ryan Putman, Will Swanson, Reese Glasscock
-
 ## Description
 
 Recreation with some artistic license of the original school kid's game 'The Oregon Trail'. Includes customized bad, good, and neutral events, various illnesses, landmarks, and pick your own adventure options
