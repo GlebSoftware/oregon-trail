@@ -30,5 +30,3 @@ I worked on the core functionality of the game. Creating the constructors for bo
 ## License
 
 This software is licensed under the MIT license.
-
-Copyright (c) 2018 **Nate Cottle, Ryan Putman, Will Swanson, Reese Glasscock**
