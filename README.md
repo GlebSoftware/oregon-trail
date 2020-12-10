@@ -24,8 +24,8 @@ I worked on the core functionality of the game. Creating the constructors for bo
 
 ## Links
 
-* _[Here](https://github.com/n8cotoa/oregon-trail) is the link to The Oregon Trail repository._
-* _[Here](https://n8cotoa.github.io/oregon-trail) is the link to The Oregon Trail online game._
+* _[Here](https://github.com/GlebSoftware/oregon-trail) is the link to The Oregon Trail repository._
+* _[Here](https://glebsoftware.github.io/oregon-trail) is the link to The Oregon Trail online game._
 
 ## License
 
